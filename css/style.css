@@ -1,0 +1,55 @@
+.sidebar {
+    height: 100%;
+    width: 200px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 50px;
+    background-color: rgb(234, 241, 98);
+    }
+    
+    .sidebar div {
+    padding: 20px;
+    font-size: 25px;
+    display: block;
+    }
+    
+    .body-text {
+    margin-left: 200px;
+    font-size: 25px;
+    }
+.header ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.cover{
+    height: 540px;
+    width: 950px; ;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    background-image: url(/img/spongebobsp.jpg);
+}
+
+.content{
+   
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+    
+.footer{
+    background-color: rgba(0, 255, 123, 0.824);
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
